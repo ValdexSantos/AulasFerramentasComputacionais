@@ -1,1 +1,1 @@
-Este é um pequeno arquivo de texto para testar comandos do Git
+Este é um pequeno arquivo de texto para testar comandos do Git.
